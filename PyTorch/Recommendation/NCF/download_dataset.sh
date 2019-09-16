@@ -25,4 +25,3 @@ then
 else
 	echo "Unsupported dataset name: $DATASET_NAME"
 	exit 1
-fi
